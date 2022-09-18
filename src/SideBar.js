@@ -4,10 +4,9 @@ import Sidebarzinha from "./Sidebarzinha";
 
 export default function Sidebar() {
     return (
-    <div>
+    <div class = "sidebar">
         <Usuario/>
         <Sugestoes/>
-        <Sidebarzinha/>
     </div>
     );
 }

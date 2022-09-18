@@ -1,6 +1,6 @@
 export default function Sidebarzinha() {
     return (
-        <div class="sidebar">
+        <div>
         <div class="links">
             Sobre • Ajuda • Imprensa • API • Carreiras • Privacidade • Termos • Localizações • Contas mais relevantes •
             Hashtags • Idioma
