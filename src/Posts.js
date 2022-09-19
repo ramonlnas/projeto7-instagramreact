@@ -56,7 +56,7 @@ function Post(props) {
           <img src={props.pagCurtida} />
           <div class="texto">
             Curtido por 
-             <strong> {props.usuarioCurtida}</strong> e
+             <strong> {props.usuarioCurtida}</strong> e{" "}
             <strong> outras {count} pessoas</strong>
           </div>
         </div>
