@@ -279,6 +279,10 @@
     justify-content: space-between;
   }
   
+  .colorido {
+    color: red;
+  }
+
   .sidebar .sugestoes .sugestao .usuario .texto :last-child {
     color: #8E8E8E;
     font-weight: 400;
